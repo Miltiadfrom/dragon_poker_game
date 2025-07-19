@@ -2,7 +2,7 @@ from game.game import Game
 from game.player import Player
 
 if __name__ == "__main__":
-    players = [Player("Игрок 1"), Player("Игрок 2")]
+    players = [Player(f"Игрок {i+1}") for i in range(3)]  # 3 игрока
     game = Game(players)
     game.start_game()
 
