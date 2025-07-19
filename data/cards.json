@@ -1,0 +1,12 @@
+[
+    {"name": "Чёрный Дракон", "strength": 3, "type": "зло", "dragon_color": "чёрный"},
+    {"name": "Золотой Дракон", "strength": 6, "type": "добро", "dragon_color": "золотой"},
+    {"name": "Серебряный Дракон", "strength": 8, "type": "добро", "dragon_color": "серебряный"},
+    {"name": "Красный Дракон", "strength": 5, "type": "зло", "dragon_color": "красный"},
+    {"name": "Архимаг", "strength": 9, "type": "смертный"},
+    {"name": "Вор", "strength": 7, "type": "смертный"},
+    {"name": "Друид", "strength": 6, "type": "смертный"},
+    {"name": "Убийца Драконов", "strength": 8, "type": "смертный"},
+    {"name": "Зелёный Дракон", "strength": 4, "type": "зло", "dragon_color": "зелёный"},
+    {"name": "Синий Дракон", "strength": 7, "type": "зло", "dragon_color": "синий"}
+]
